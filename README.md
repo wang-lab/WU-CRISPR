@@ -10,7 +10,7 @@ A Perl 5 interpreter or high on a Linux system is required.
 INSTALLATION
 
 1. Place the WU-CRISPR.tar.gz file anywhere in your Linux system and uncompress using the folllowing command:
-  'gunzip -c WU-CRISPR.tar.gz|tar xvf-'
+  'gunzip -c WU-CRISPR.tar.gz|tar xvf -'
 2. Copy your input FASTA files into the newly created WU-CRISPR directory.
 3. Type 'perl wu-crispr.pl' to run the program and view the help file.
 
