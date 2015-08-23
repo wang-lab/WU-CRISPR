@@ -5,7 +5,7 @@ Welcome to WU-CRISPR, the Washington University gRNA designer for CRISPR/Cas9 kn
 
 REQUIREMENTS
 
-A Perl 5 interpreter or high on a Linux system is required.
+A Perl 5 interpreter or higher on a Red-Hat compatible Linux system is required.
 
 INSTALLATION
 
