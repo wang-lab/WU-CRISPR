@@ -10,7 +10,7 @@ A Perl 5 interpreter or higher on a Red-Hat compatible Linux system is required.
 INSTALLATION
 
 1. Place the WU-CRISPR.tar.gz file anywhere in your Linux system and uncompress using the folllowing command:
-  'gunzip -c WU-CRISPR.tar.gz|tar xvf -'
+  'tar -xzvf WU-CRISPR.tar.gz'
 2. Copy your input FASTA files into the newly created WU-CRISPR directory.
 3. Type 'perl wu-crispr.pl' to run the program and view the help file.
 
