@@ -17,8 +17,9 @@ INSTALLATION OF WU-CRISPR STANDALONE PROGRAM
 A README file is included in the WU-CRISPR standalone package, with examples and detailed explanations of the commands available.
 
 INSTALLATION OF WU-CRISPR SERVER PACKAGE
+
 1. Place the WU-CRISPR_Server.tar.gz file in the cgi-bin of your Linux system and uncompress using the following command:
-  'tar -xzvf WU-CRISPR_Server.tar.gz'
+'tar -xzvf WU-CRISPR_Server.tar.gz'
 2. Access the custom_gRNA.cgi script from your browser.
 
 A README file is included in the WU-CRISPR server package with instructions on file and directory permissions.
