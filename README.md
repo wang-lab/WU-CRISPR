@@ -7,13 +7,18 @@ REQUIREMENTS
 
 A Perl 5 interpreter or higher on a Red-Hat compatible Linux system is required.
 
-INSTALLATION
+INSTALLATION OF WU-CRISPR STANDALONE PROGRAM
 
-1. Place the WU-CRISPR.tar.gz file anywhere in your Linux system and uncompress using the folllowing command:
+1. Place the WU-CRISPR.tar.gz file anywhere in your Linux system and uncompress using the following command:
   'tar -xzvf WU-CRISPR.tar.gz'
 2. Copy your input FASTA files into the newly created WU-CRISPR directory.
 3. Type 'perl wu-crispr.pl' to run the program and view the help file.
 
-README
+A README file is included in the WU-CRISPR standalone package, with examples and detailed explanations of the commands available.
 
-A README file is included in the WU-CRISPR package, with examples and detailed explanations of the commands available.
+INSTALLATION OF WU-CRISPR SERVER PACKAGE
+1. Place the WU-CRISPR_Server.tar.gz file in the cgi-bin of your Linux system and uncompress using the following command:
+  'tar -xzvf WU-CRISPR_Server.tar.gz'
+2. Access the custom_gRNA.cgi script from your browser.
+
+A README file is included in the WU-CRISPR server package with instructions on file and directory permissions.
